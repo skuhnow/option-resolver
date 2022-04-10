@@ -18,7 +18,7 @@
   "author": "Sebastian Klocke",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/skuhnow/option-resolver/issues",
+    "url": "https://github.com/skuhnow/option-resolver/issues"
   },
   "homepage": "https://github.com/skuhnow/option-resolver",
   "devDependencies": {
